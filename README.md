@@ -1,2 +1,2 @@
-# Send-Emails-with-Python
-Sends email with or without attachments
+# Contains Files that were worked on during the internship 
+
